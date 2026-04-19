@@ -53,7 +53,7 @@
 
 
 ⚡ Fun Fact
-I enjoy analyzing real world attack patterns and turning raw logs into actionable intelligence.
+I enjoy analysing real world attack patterns and turning raw logs into actionable intelligence.
 0 commit comments
 Comments
 0
