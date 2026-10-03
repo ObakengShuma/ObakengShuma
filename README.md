@@ -1,5 +1,5 @@
 ‎
-<h1>Hi👋I'm Obakeng Shuma a passionate Information Security Specialist and looking to venture into SOC Analyst, Cyber Security Analyst & Security Engineer</h1>
+<h1>Hi👋I'm Obakeng Shuma a passionate Cyber Security Specialist and open to SOC Analyst, Cyber Security Analyst & Security Engineer</h1>
 
 
 
