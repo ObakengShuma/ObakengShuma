@@ -55,6 +55,18 @@ Future labs will expand into:
 
 ---
 
+## 🧠 Core Competencies
+
+- Incident Response & Threat Detection  
+- Digital Forensics (Linux & Windows)  
+- Log Analysis (Splunk, Wazuh)  
+- Network Traffic Analysis (Wireshark, tcpdump)  
+- Malware & Phishing Analysis  
+- Threat Intelligence & IOC Identification  
+- System Hardening & Defensive Security  
+
+---
+
 ## Tools
 
 - Splunk
@@ -62,6 +74,31 @@ Future labs will expand into:
 - GitHub
 - Security monitoring tools
 - Azure
+
+---
+
+## 🛠️ Tools & Technologies
+
+**Network Analysis:**  
+Wireshark, Zeek, 
+
+**SIEM & Monitoring:**  
+Splunk, Wazuh
+
+**Operating Systems:**  
+Linux (Kali Linux, Ubuntu), Windows
+
+**Scripting & Automation:**  
+Python, Bash, PowerShell
+
+**Digital Forensics:**  
+Autospy, Evidence Collection & Analysis
+
+**Security Tools:**  
+UFW Firewall, Azure Honeypot
+
+**Development & Collaboration:**  
+Git, GitHub, GitHub Actions, VS Code
 
 ---
 
@@ -108,6 +145,10 @@ Currently developing cybersecurity skills through:
 I am a Cybersecurity & Digital Forensics Analyst focused on Security Operations Center (SOC) analysis, incident response, digital forensics, and defensive security. I document hands-on labs and investigations to demonstrate practical cybersecurity skills.
 
 
+## 📫 Contact
+
+- 💼 LinkedIn: https://www.linkedin.com/in/obakeng-shuma/  
+- 💻 Email: Oadorance77@gmail.com
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/obakeng-shuma/">
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
