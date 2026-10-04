@@ -107,7 +107,7 @@ Currently developing cybersecurity skills through:
 
 I am a Cybersecurity & Digital Forensics Analyst focused on Security Operations Center (SOC) analysis, incident response, digital forensics, and defensive security. I document hands-on labs and investigations to demonstrate practical cybersecurity skills.
 
-[![View Portfolio](https://img.shields.io/badge/Portfolio-BecomingCyber-blueviolet?style=for-the-badge&logo=github)](https://github.com/BecomingCyber)
+
 
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/obakeng-shuma/">
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
