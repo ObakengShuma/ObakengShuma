@@ -67,14 +67,6 @@ Future labs will expand into:
 
 ---
 
-## Tools
-
-- Splunk
-- Wazuh
-- GitHub
-- Security monitoring tools
-- Azure
-
 ---
 
 ## 🛠️ Tools & Technologies
