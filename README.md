@@ -1,64 +1,117 @@
-‎
-<h1>Hi👋I'm Obakeng Shuma a passionate Cyber Security Specialist and open to SOC Analyst, Cyber Security Analyst & Security Engineer opportinities</h1>
+# BecomingCyber-SOC-Portfolio
+
+![BecomingCyber SOC Portfolio](./becomingcyber-soc-portfolio-banner.jpg)
 
 
-
-<h1>🛡️ Cybersecurity & SOC Projects</h1>
-
-
-<b>Azure Honeypot</b>
-- <b>Azure Honeypot SOC Project (Detection & Response)</b>  
-
-  - Built and deployed a vulnerable Windows Server VM in Azure to attract brute-force attacks.  
-  - Integrated **Microsoft Sentinel** for log analysis, detection, and automated containment.  
-  - Performed full **incident response lifecycle** (Detection → Containment → Eradication → Recovery).  
-  - Implemented Azure NSG automation via Cloud Shell & CLI.  
-  - Azure logs, NSG rules, Sentinel queries, and attacker IP mapping.
+A curated cybersecurity portfolio showcasing SOC analyst investigations, incident response exercises, threat detection workflows, log analysis, and defensive security projects.
 
 ---
 
----
+## About This Repository
 
+This repository serves as a central portfolio hub for my cybersecurity learning journey, connecting documented SOC analyst exercises, defensive security investigations, and hands-on security projects.
 
-<h2>Skills</h2>
+The goal is to transform cybersecurity training into demonstrable experience by documenting:
 
-| Skill| Tools| 
-|----------------|---------|
-| SIEM | Seacon,Microsoft Defender,Splumk,Microsoft Sentinel | 
-| Cloud Security | Azure,Intune,AWS, SentinelOne,Qualys | 
-| Network Security | Fortigate, Fortianalyser, IDS/IPS, Proxies | 
-| Scripting Language | Powershell, Python |
-| Frameworks | ISO 27001, NIST, MITRE AT&CCK, GDPR | 
-| Operating Systems | Linux,Windows, MacOS | 
-| Digital Forensic Analysis| Autospy | 
-| Network Sensors | Wireshark, Suricata, Zeek | 
-
+- Investigation methodology
+- Tools used
+- Analysis process
+- Findings
+- Lessons learned
 
 ---
 
-<h2>📺 Featured Learning & Labs</h2>
+## Skills Demonstrated
 
-- [Building a SOC Lab in Azure](#)  
-- [Detecting Brute Force with Microsoft Sentinel](#)  
-- [Time Series in AI Course Recommendation Engine](#)  
+🛡️ Security Operations Center (SOC) Analysis  
+📊 Log Analysis  
+🔎 Incident Response  
+🌐 Network Traffic Analysis  
+🕵️ Threat Intelligence Analysis  
+📁 Digital Forensics Concepts
 
 ---
 
-<h2>📫 Connect with Me</h2>
+## 📊 Technical Project Experience & SOC Portfolio
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+Projects below represent documented hands-on investigations completed as part of my cybersecurity training and portfolio development.
 
-[linkedin]: https://www.linkedin.com/in/obakeng-shuma/
-📧 **Email:** [Oadorance77@gmail.com](Oadorance77@gmail.com)
+| Area | Project |
+|------|---------|
+| Azure Honeypot Detection Response | [Suspicious Bash Lab — Day 12](https://github.com/ObakengShuma/Azure--Honeypot-Detection-Response) |
+| Security Monitoring and SIEM  | [Cron Job Persistence Lab — Day 13](https://github.com/ObakengShuma/Security-Monitoring-and-SIEM-Homelabs) |
+| Phishing Analysis Lab | [PowerShell IR Lab — Day 14](https://github.com/ObakengShuma/Phishing-analysis-lab) |
 
+---
 
-⚡ Fun Fact
-I enjoy analysing real world attack patterns and turning raw logs into actionable intelligence.
-0 commit comments
-Comments
-0
- (0)
+## 🚀 Future Portfolio Expansion
 
+Future labs will expand into:
+
+- Cloud Security Monitoring
+- Advanced SIEM Detection Engineering
+- Digital Forensics Case Studies
+- Security Automation Projects
+
+---
+
+## Tools
+
+- Splunk
+- Wazuh
+- GitHub
+- Security monitoring tools
+- Azure
+
+---
+
+## Portfolio Categories
+
+```text
+BecomingCyber-SOC-Labs
+│
+├── SOC Investigations
+│   └── Detection, monitoring, and investigation projects
+│
+├── Incident Response
+│   └── Threat investigation and remediation workflows
+│
+├── Network Analysis
+│   └── Traffic analysis and network investigations
+│
+├── Malware Analysis
+│   └── Malware triage and IOC analysis
+│
+├── Windows & Endpoint Analysis
+│   └── Windows troubleshooting, endpoint analysis, and system diagnostics
+│
+└── Security Automation
+    └── Python and PowerShell security tooling
+```
+
+---
+
+## 🎓 Certifications & Learning
+
+Currently developing cybersecurity skills through:
+
+- CompTIA Security+ Ongoing
+- SOC analyst hands-on labs
+- Incident response investigations
+- Defensive security analysis
+- Python and PowerShell security automation
+
+---
+
+## About Me
+
+I am a Cybersecurity & Digital Forensics Analyst focused on Security Operations Center (SOC) analysis, incident response, digital forensics, and defensive security. I document hands-on labs and investigations to demonstrate practical cybersecurity skills.
+
+[![View Portfolio](https://img.shields.io/badge/Portfolio-BecomingCyber-blueviolet?style=for-the-badge&logo=github)](https://github.com/BecomingCyber)
+
+<a href="https://linkedin.com/in/mozella-mccoy-flowers">
+<img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>‎
 
 <!--
 **ObakengShuma/ObakengShuma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
