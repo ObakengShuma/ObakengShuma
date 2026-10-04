@@ -38,9 +38,9 @@ Projects below represent documented hands-on investigations completed as part of
 
 | Area | Project |
 |------|---------|
-| Azure Honeypot Detection Response | [Suspicious Bash Lab — Day 12](https://github.com/ObakengShuma/Azure--Honeypot-Detection-Response) |
-| Security Monitoring and SIEM  | [Cron Job Persistence Lab — Day 13](https://github.com/ObakengShuma/Security-Monitoring-and-SIEM-Homelabs) |
-| Phishing Analysis Lab | [PowerShell IR Lab — Day 14](https://github.com/ObakengShuma/Phishing-analysis-lab) |
+| Azure Honeypot Detection Response | [Honeypot Lab ](https://github.com/ObakengShuma/Azure--Honeypot-Detection-Response) |
+| Security Monitoring and SIEM  | [SIEM Lab — ](https://github.com/ObakengShuma/Security-Monitoring-and-SIEM-Homelabs) |
+| Phishing Analysis Lab | [Phishing IR Lab —](https://github.com/ObakengShuma/Phishing-analysis-lab) |
 
 ---
 
@@ -109,7 +109,7 @@ I am a Cybersecurity & Digital Forensics Analyst focused on Security Operations 
 
 [![View Portfolio](https://img.shields.io/badge/Portfolio-BecomingCyber-blueviolet?style=for-the-badge&logo=github)](https://github.com/BecomingCyber)
 
-<a href="https://linkedin.com/in/mozella-mccoy-flowers">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/obakeng-shuma/">
 <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>‎
 
